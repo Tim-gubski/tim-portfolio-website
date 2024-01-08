@@ -1,0 +1,35 @@
+{
+  "experience": [
+    {
+      "companyName": "AFTI WatchDog",
+      "date": "May 2023 - August 2023",
+      "logo": "afti",
+      "role": "Computer Vision Intern",
+      "description": [
+        "Developed a Multilabel Image Classification model using PyTorch to identify flaws in image quality with 95% accuracy.",
+        "Integrated my project into the existing Image Processing Pipeline to automatically trigger defrosting commands when images are classified to be frosted over or covered in dew.",
+        "Improved customer experience by reducing overall number of unclear images served to the end-user.",
+        "Created comprehensive documentation, facilitating the understanding and usage of the Image Classification model, thereby leaving a lasting impact on the company's capabilities even after the completion of the internship."
+      ]
+    },
+    {
+      "companyName": "Unite Tonight",
+      "date": "August 2022 - May 2023",
+      "logo": "UT",
+      "role": "Backend Developer",
+      "description": [
+        "Spearheaded the development and implementation of critical functionalities for the Unite Tonight app, a social networking platform designed to facilitate event organization and attendance.",
+        "Leveraged expertise in PHP and Swift to architect and deploy backend solutions on AWS, playing a pivotal role in bringing the app from conception to successful launch within a tight timeline."
+      ]
+    },
+    {
+      "companyName": "Princeton University",
+      "date": "January 2022 - May 2022",
+      "logo": "princeton",
+      "role": "Computer Science TA",
+      "description": [
+        "Worked with students to increase their understanding of course material and debug their programming assignments for COS 126: An Interdisciplinary Approach"
+      ]
+    }
+  ]
+}

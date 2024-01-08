@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "projectName": "VirtuoCart",
+      "video": "",
+      "picture": "virtuocart",
+      "github": "",
+      "website": "https://virtuocart.com/",
+      "tags": ["#NodeJS", "#MongoDB", "#StripeAPI", "#Blender"],
+      "description": "VirtuoCart is a web app I created, inspired by my father who is a photographer, to help artists advertise their work using Augmented Reality. Artists can upload their 2D images to VirtuoCart and a Blender Python script on the backend will generate a framed 3D model in the AR friendly GLB format. VirtuoCart also provides the code to embed an AR viewer into the artists website."
+    },
+    {
+      "projectName": "Minecraft at Home",
+      "video": "https://www.youtube.com/watch?v=s3LjB8golBE",
+      "picture": "",
+      "github": "https://github.com/Tim-gubski/Minecraft-at-Home?tab=readme-ov-file",
+      "website": "https://tim-gubski.github.io/Minecraft-at-Home/",
+      "tags": ["#ThreeJS", "#HTML", "#CSS"],
+      "description": "Minecraft at Home is my final project for my Computer Graphics class at Princeton University. Our game uses ThreeJS to render a procedurally generated 3D block world that the player can interact with by placing and destroying blocks. This project helped me learn a lot about optimization, since rendering thousands of blocks is an insanely pefromance intensive task!"
+    },
+    {
+      "projectName": "Application Judging System for TigerLaunch",
+      "video": "",
+      "picture": "tigerlaunch",
+      "github": "",
+      "website": "https://tigerlaunch.com/home",
+      "tags": ["#ReactJS", "#Firebase", "#Google Maps API"],
+      "description": "TigerLaunch is the nation's largest student-run entrepreneurship competition. I was the lead developer for the application judging system, which is used by over 50 VC judges to review and score applications. I used ReactJS to create a dynamic web app that allows judges to view and score applications, and I used Firebase to store and manage the data. I also used the Google Maps API to automatically sort applicants to their closest regional, a task that was previously done manually."
+    }
+  ]
+}
