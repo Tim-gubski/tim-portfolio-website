@@ -11,7 +11,7 @@
     },
     {
       "projectName": "Minecraft at Home",
-      "video": "https://www.youtube.com/watch?v=s3LjB8golBE",
+      "video": "https://www.youtube.com/embed/s3LjB8golBE?si=kCMWlYyRqWg2bgtS",
       "picture": "",
       "github": "https://github.com/Tim-gubski/Minecraft-at-Home?tab=readme-ov-file",
       "website": "https://tim-gubski.github.io/Minecraft-at-Home/",
@@ -24,8 +24,62 @@
       "picture": "tigerlaunch",
       "github": "",
       "website": "https://tigerlaunch.com/home",
-      "tags": ["#ReactJS", "#Firebase", "#Google Maps API"],
+      "tags": ["#ReactJS", "#Firebase", "#GoogleMapsAPI"],
       "description": "TigerLaunch is the nation's largest student-run entrepreneurship competition. I was the lead developer for the application judging system, which is used by over 50 VC judges to review and score applications. I used ReactJS to create a dynamic web app that allows judges to view and score applications, and I used Firebase to store and manage the data. I also used the Google Maps API to automatically sort applicants to their closest regional, a task that was previously done manually."
+    },
+    {
+      "projectName": "FlameNet, Distributed Network Wildfire Detection System for HackPrinceton",
+      "video": "",
+      "picture": "flamenet",
+      "github": "https://github.com/Tim-gubski/flamenet",
+      "website": "https://github.com/Tim-gubski/flamenet?tab=readme-ov-file",
+      "tags": ["#Hardware", "#ReactJS", "#Firebase", "#Twillio"],
+      "description": "My friends and I made FlameNet for HackPrinceton 2022, winning Best Project and a $1000 grant from 1517 Ventures. We created FlameNet as a way to detect wildfires in remote areas, where there is no internet connection. FlameNet works using distributed nodes that communicate over long range radio creating an area network that can span hundreds of acres of land"
+    },
+    {
+      "projectName": "Omni-Directional Swerve Drive Train",
+      "video": "https://www.youtube.com/embed/YbZrMQ9D-L8?si=vv2ovWi2C40kmhc-",
+      "picture": "",
+      "github": "",
+      "website": "",
+      "tags": ["#Design", "#RasberryPi", "#Python", "#Fusion360"],
+      "description": "Every high school robotics team dreams of having a swerve drive robot. At least I did, but because of COVID we never had the chance to build one. So three years later I decicded to custom design one that can be fully 3D printed and lasercut for a school final project."
+    },
+    {
+      "projectName": "Model Unied Nations Chairing Assistant Web App",
+      "video": "https://www.youtube.com/embed/48qrTQl0ge8?si=fMtzrPzKAgrdv_y9",
+      "picture": "",
+      "github": "https://github.com/Tim-gubski/MUNassistant",
+      "website": "",
+      "tags": ["#EJS", "#NodeJS", "#MongoDB"],
+      "description": "This was one of my first big web development projects when I was first learning web design in High School. I created a web app that allows Model UN chairs to easily manage their committees. Chairs can create a committee, add delegates, and assign awards. I used EJS to create a dynamic web app that allows chairs to easily manage their committees. I used NodeJS and MongoDB to store and manage the data. There was definitely a lot of room for improvement, and it's cool to look back and see how far I've come as a developer since then."
+    },
+    {
+      "projectName": "Sustainabite, HackPrinceton 2023",
+      "video": "",
+      "picture": "sustainabite",
+      "github": "https://github.com/Tim-gubski/Sustainabite?tab=readme-ov-file",
+      "website": "",
+      "tags": ["#ComputerVision", "#Python", "#ReactJS"],
+      "description": "Sustainabite is a project I made for HackPrinceton 2023, winning the best sustainability project award! Our project was a multipart solution to make sustainable meal planning easier. The hardware part of our project was a mod to turn any fridge into a smart fridge, using computer vision to identiy products placed inside it, and estimate expiry dates. Paired with this we created a website that would allow the user to track the contents of their fridge, recommend recipies that can be made out of the ingredients in the fridge, prioritizing indgredients about to expire, and sending text message alerts when products are about to go bad. Check out the project on GitHub this is possibly the best README of any project I've worked on!"
+    },
+    {
+      "projectName": "Graffitex, Hack the North 2022",
+      "video": "",
+      "picture": "graffitex",
+      "github": "",
+      "website": "https://www.youtube.com/shorts/ry9UzO52Y7U",
+      "tags": ["#AR", "#Swift", "#ARkit"],
+      "description": "Graffitex is my first ever iOS app project, made for Hack the North 2022. Graffitex is an AR app that allows users to create and share AR graffiti. Users can create graffiti by drawing on any surface in AR! This was my first experience with iOS development, and I learned a lot about Swift and ARkit."
+    },
+    {
+      "projectName": "AI Driver Alert System",
+      "video": "https://www.youtube.com/embed/90z9QuIBZaw?si=aTMZkzgmCAee7DOz",
+      "picture": "",
+      "github": "",
+      "website": "",
+      "tags": ["#AI/ML", "#ComputerVision", "#Python"],
+      "description": "I built this project for the Calgary Youth Science Fair in 2018, winning the Best Computer Science Project Award, and getting the chance to represent Alberta at the Canada Wide Science Fair where I won a silver medal. This project used TensorFlow to do image segmentation and labelling to detect potential hazards on the road, and alert the driver."
     }
   ]
 }

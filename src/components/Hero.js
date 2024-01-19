@@ -5,7 +5,7 @@ import tim from "../images/tim.jpg";
 
 function Hero() {
   return (
-    <Container className="my-5" fluid>
+    <Container className="my-5" fluid id="hero">
       <Row className="align-items-center">
         <Col xs={6} className="text-left">
           <p id="top-text">

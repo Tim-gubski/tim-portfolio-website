@@ -6,11 +6,12 @@ function PageNavbar() {
   return (
     <Navbar bg="dark" data-bs-theme="dark">
       <Container>
-        <Navbar.Brand href="#home">Timur Gubskiy</Navbar.Brand>
+        <Navbar.Brand href="#hero">Timur Gubskiy</Navbar.Brand>
         <Nav className="me-auto">
-          <Nav.Link href="#home">About</Nav.Link>
-          <Nav.Link href="#features">Experience</Nav.Link>
-          <Nav.Link href="#pricing">Projects</Nav.Link>
+          <Nav.Link href="#about">About</Nav.Link>
+          <Nav.Link href="#experience">Experience</Nav.Link>
+          <Nav.Link href="#projects">Projects</Nav.Link>
+          <Nav.Link href="#contact">Contact</Nav.Link>
         </Nav>
       </Container>
     </Navbar>

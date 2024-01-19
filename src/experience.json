@@ -13,6 +13,17 @@
       ]
     },
     {
+      "companyName": "Princeton Racing Electric (FSAE)",
+      "date": "September 2021 - Present",
+      "logo": "pre",
+      "role": "Chief Engineer",
+      "description": [
+        "Organized a team of 100+ skilled engineers in the design, development, and construction of an electric Formula-style race car",
+        "Spearheaded the development of embedded systems and firmware for various vehicle subsystems, enhancing overall vehicle control and facilitating data acquisition capabilities to aid in optimizing the vehicle’s performance.",
+        "Led a team of 6 engineers within the high voltage sub-team through the testing and integration of DHX Motors and Emsiso Inverters, implementing control over CAN, and collaborating closely with the Mechanical team to facilitate integration."
+      ]
+    },
+    {
       "companyName": "Unite Tonight",
       "date": "August 2022 - May 2023",
       "logo": "UT",

@@ -12,12 +12,13 @@ import "react-vertical-timeline-component/style.min.css";
 import afti from "../images/afti.png";
 import UT from "../images/UT.png";
 import princeton from "../images/princeton.svg";
+import pre from "../images/pre.jpg";
 
-const logos = { afti: afti, UT: UT, princeton: princeton };
+const logos = { afti: afti, UT: UT, princeton: princeton, pre };
 
 function WorkExperience() {
   return (
-    <Container className="">
+    <Container className="" id="experience">
       <h1 className="display-1 text-light monospace bold text-center">
         Work Experience
       </h1>

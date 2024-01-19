@@ -2,17 +2,22 @@ import Container from "react-bootstrap/esm/Container";
 
 function AboutMe() {
   return (
-    <Container>
-      <h1 className="display-1 text-light monospace bold text-center">
+    <Container className="my-5">
+      <h1
+        className="display-1 text-light monospace bold text-center"
+        id="about"
+      >
         About Me
       </h1>
-      <p className="text-light text-center">
-        I am a senior at the University of Texas at Austin studying Electrical
-        and Computer Engineering. I am passionate about robotics, AI, and
-        software development. I have experience working with a variety of
-        different technologies, including web, mobile, and XR development, as
-        well as embedded systems and robotics. I am currently looking for
-        full-time opportunities in software engineering and robotics.
+      <p className="text-light text-center h4">
+        Hey there! I'm Tim, an Electrical and Computer Engineering student at
+        Princeton University interested in software development, autonomous
+        vehicles, and entrepreneurship - feel free to reach out to chat! I’ve
+        been programming and learning engineering skills for most of my life and
+        love sharing my knowledge by teaching young students while continually
+        developing and enhancing my own skills. Outside of school and robotics,
+        I'm typically found at the bouldering wall or in front of a piano
+        practicing my favorite tunes!
       </p>
     </Container>
   );
