@@ -24,7 +24,7 @@ const Projects = () => {
       <Row className="justify-content-center">
         {projects.projects.map((project, index) => {
           return (
-            <Col xs={4} className="my-3">
+            <Col xs={12} sm={6} xl={4} className="my-3">
               <Card
                 style={{ width: "100%", backgroundColor: "#1d1836" }}
                 className="text-light text-start p-3"

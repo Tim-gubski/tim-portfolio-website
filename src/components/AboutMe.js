@@ -9,7 +9,7 @@ function AboutMe() {
       >
         About Me
       </h1>
-      <p className="text-light text-center h4">
+      <p className="text-light text-center h5">
         Hey there! I'm Tim, an Electrical and Computer Engineering student at
         Princeton University interested in software development, autonomous
         vehicles, and entrepreneurship - feel free to reach out to chat! I’ve
