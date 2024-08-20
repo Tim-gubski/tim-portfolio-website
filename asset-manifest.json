@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.c0ab8ddd.css",
-    "main.js": "/static/js/main.314e7744.js",
+    "main.js": "/static/js/main.e83b5ec8.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/sustainabite.png": "/static/media/sustainabite.a7396883c1ce48c859a5.png",
     "static/media/flamenet.png": "/static/media/flamenet.80c383665852024b1fc1.png",
+    "static/media/architech.png": "/static/media/architech.909855302d07dac05e8f.png",
     "static/media/virtuocart.png": "/static/media/virtuocart.8b0fa7d53453aa4201b9.png",
     "static/media/tim.jpg": "/static/media/tim.4442543a8037de6ab308.jpg",
     "static/media/tigerlaunch.png": "/static/media/tigerlaunch.8382e9bf659bef025cf4.png",
     "static/media/pre.jpg": "/static/media/pre.c5e412d032de07b4cc6e.jpg",
     "static/media/princeton.svg": "/static/media/princeton.6b2b9f88ed2d3805f7638eefcd0266df.svg",
     "static/media/graffitex.jpg": "/static/media/graffitex.672796054d133d48b8f4.jpg",
+    "static/media/Rivian logo.png": "/static/media/Rivian logo.eb8cf2b5e14b937bdf47.png",
     "static/media/UT.png": "/static/media/UT.ab41d6326ab4945dbec4.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.c0ab8ddd.css.map": "/static/css/main.c0ab8ddd.css.map",
-    "main.314e7744.js.map": "/static/js/main.314e7744.js.map",
+    "main.e83b5ec8.js.map": "/static/js/main.e83b5ec8.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0ab8ddd.css",
-    "static/js/main.314e7744.js"
+    "static/js/main.e83b5ec8.js"
   ]
 }
