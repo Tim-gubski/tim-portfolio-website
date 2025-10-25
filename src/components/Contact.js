@@ -13,10 +13,10 @@ const Contact = () => {
         <p className="text-light text-center h4">
           Feel free to reach out to me at: <br />
           <a
-            href="mailto:timgubski@princeton.edu"
+            href="mailto:tim.gubski@gmail.com"
             className="text-info text-decoration-none"
           >
-            timgubski@princeton.edu
+            tim.gubski@gmail.com
           </a>
         </p>
         <br />

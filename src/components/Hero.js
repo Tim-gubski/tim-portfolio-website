@@ -9,7 +9,7 @@ function Hero() {
       <Row className="align-items-center">
         <Col md={6} xs={12} className="text-center text-md-start">
           <h1 className="display-2 mb-3" id="name">
-            Timur Gubskiy
+            Tim Gubski
           </h1>
           <p id="top-text" className="display-6">
             Robotics + AI Engineer

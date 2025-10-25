@@ -1,6 +1,28 @@
 {
   "experience": [
     {
+      "companyName": "Rivian",
+      "date": "July 2025 - Present",
+      "logo": "rivian",
+      "role": "Software Engineer",
+      "description": [
+        "Working with the Vehicle to Cloud team to enable a more connected experience for Rivian customers"
+      ]
+    },
+    {
+      "companyName": "Rivian",
+      "date": "May 2024 - August 2024",
+      "logo": "rivian",
+      "role": "Software Engineering Intern",
+      "description": [
+        "Explored the ability to deploy ML models on the edge, by running them on vehicle instead of in the cloud",
+        "Created a workflow for other teams to easily deploy new ML models onto the vehicle and leverage ML in their services",
+        "Designed a CPU efficient and low memory usage service for aggregating vehicle signals for use in ML inferences",
+        "Implemented a comprehensive HIL test suite to ensure proper functionality of all designed services",
+        "Maintained comprehensive documentation to make it easy others to maintain or adapt my services in the future."
+      ]
+    },
+    {
       "companyName": "AFTI WatchDog",
       "date": "May 2023 - August 2023",
       "logo": "afti",
@@ -14,7 +36,7 @@
     },
     {
       "companyName": "Princeton Racing Electric (FSAE)",
-      "date": "September 2021 - Present",
+      "date": "September 2021 - May 2025",
       "logo": "pre",
       "role": "Chief Engineer",
       "description": [

@@ -10,10 +10,18 @@ import tigerlaunch from "../images/tigerlaunch.png";
 import flamenet from "../images/flamenet.png";
 import sustainabite from "../images/sustainabite.png";
 import graffitex from "../images/graffitex.jpg";
+import architech from "../images/architech.png";
 
 let colors = ["#ffb3ba", "#bae1ff", "#baffc9", "#ffffba"];
 
-let pictures = { virtuocart, tigerlaunch, flamenet, sustainabite, graffitex };
+let pictures = {
+  virtuocart,
+  tigerlaunch,
+  flamenet,
+  sustainabite,
+  graffitex,
+  architech,
+};
 
 const Projects = () => {
   return (

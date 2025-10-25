@@ -1,6 +1,24 @@
 {
   "projects": [
     {
+      "projectName": "DIY HoloTile",
+      "video": "https://www.youtube.com/embed/e7jM7aJOETo?si=_b7cLvBQXbEtYj0H",
+      "picture": "",
+      "github": "https://github.com/Tim-gubski/ECESeniorThesis",
+      "website": "",
+      "tags": ["#MechanicalDesign", "#Hardware", "#ComputerVision"],
+      "description": "Inspired by Disney's HoloTile, this project aims to create a DIY version using a custom 3D printed design. This project was my Princeton senior thesis and won the ECE Bradley Dickinson Award for System Design. I also got the chance to present this project at Open Sauce 2025!"
+    },
+    {
+      "projectName": "Audio2Hero",
+      "video": "https://www.youtube.com/embed/y23ZDX2WFg0?si=fTe4tqeySBi_CqV3",
+      "picture": "",
+      "github": "https://github.com/mb6611/484-clonehero",
+      "website": "",
+      "tags": ["#HuggingFace", "#Transformers", "#PyTorch"],
+      "description": "Audio2Hero is my final project for my Princeton Natural Language Processing course. Audio2Hero is an autocharter, powered by transformers, for the popular game CloneHero or GuitarHero. Audio2Hero can take in an audio file and will generate a fun to play, rhythmically accurate CloneHero chart. Behind the scenes Audio2Hero uses log-mel spectrogram encoding to encode raw audio, and generates discrete MIDI files to represent the CloneHero charts. Check out our paper to learn more!"
+    },
+    {
       "projectName": "VirtuoCart",
       "video": "",
       "picture": "virtuocart",
@@ -8,6 +26,15 @@
       "website": "https://virtuocart.com/",
       "tags": ["#NodeJS", "#MongoDB", "#StripeAPI", "#Blender"],
       "description": "VirtuoCart is a web app I created, inspired by my father who is a photographer, to help artists advertise their work using Augmented Reality. Artists can upload their 2D images to VirtuoCart and a Blender Python script on the backend will generate a framed 3D model in the AR friendly GLB format. VirtuoCart also provides the code to embed an AR viewer into the artists website."
+    },
+    {
+      "projectName": "Omni-Directional Swerve Drive Train",
+      "video": "https://www.youtube.com/embed/YbZrMQ9D-L8?si=vv2ovWi2C40kmhc-",
+      "picture": "",
+      "github": "",
+      "website": "",
+      "tags": ["#Design", "#RasberryPi", "#Python", "#Fusion360"],
+      "description": "Every high school robotics team dreams of having a swerve drive robot. At least I did, but because of COVID we never had the chance to build one. So three years later I decicded to custom design one that can be fully 3D printed and lasercut for a school final project."
     },
     {
       "projectName": "Minecraft at Home",
@@ -19,6 +46,15 @@
       "description": "Minecraft at Home is my final project for my Computer Graphics class at Princeton University. Our game uses ThreeJS to render a procedurally generated 3D block world that the player can interact with by placing and destroying blocks. This project helped me learn a lot about optimization, since rendering thousands of blocks is an insanely pefromance intensive task!"
     },
     {
+      "projectName": "Resume Architech",
+      "video": "",
+      "picture": "architech",
+      "github": "https://github.com/athanzxyt/resume-architech",
+      "website": "https://resume-architech.onrender.com/",
+      "tags": ["#OpenAI", "#ReactJS", "#MongoDB", "#GithubAPI"],
+      "description": "My team built this website for HackPrinceton 2024, winning the education track, and the \"Best use of AI in application process\" award by SimlifyAI. Our project used LLMs to help generate a custom tailored resume for each specific job application. This project was my first time using the OpenAI API and I learned a ton!"
+    },
+    {
       "projectName": "Application Judging System for TigerLaunch",
       "video": "",
       "picture": "tigerlaunch",
@@ -28,22 +64,13 @@
       "description": "TigerLaunch is the nation's largest student-run entrepreneurship competition. I was the lead developer for the application judging system, which is used by over 50 VC judges to review and score applications. I used ReactJS to create a dynamic web app that allows judges to view and score applications, and I used Firebase to store and manage the data. I also used the Google Maps API to automatically sort applicants to their closest regional, a task that was previously done manually."
     },
     {
-      "projectName": "FlameNet, Distributed Network Wildfire Detection System for HackPrinceton",
+      "projectName": "FlameNet, Distributed Network Wildfire Detection System for HackPrinceton 2022",
       "video": "",
       "picture": "flamenet",
       "github": "https://github.com/Tim-gubski/flamenet",
       "website": "https://github.com/Tim-gubski/flamenet?tab=readme-ov-file",
       "tags": ["#Hardware", "#ReactJS", "#Firebase", "#Twillio"],
       "description": "My friends and I made FlameNet for HackPrinceton 2022, winning Best Project and a $1000 grant from 1517 Ventures. We created FlameNet as a way to detect wildfires in remote areas, where there is no internet connection. FlameNet works using distributed nodes that communicate over long range radio creating an area network that can span hundreds of acres of land"
-    },
-    {
-      "projectName": "Omni-Directional Swerve Drive Train",
-      "video": "https://www.youtube.com/embed/YbZrMQ9D-L8?si=vv2ovWi2C40kmhc-",
-      "picture": "",
-      "github": "",
-      "website": "",
-      "tags": ["#Design", "#RasberryPi", "#Python", "#Fusion360"],
-      "description": "Every high school robotics team dreams of having a swerve drive robot. At least I did, but because of COVID we never had the chance to build one. So three years later I decicded to custom design one that can be fully 3D printed and lasercut for a school final project."
     },
     {
       "projectName": "Model Unied Nations Chairing Assistant Web App",

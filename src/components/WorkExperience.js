@@ -13,8 +13,9 @@ import afti from "../images/afti.png";
 import UT from "../images/UT.png";
 import princeton from "../images/princeton.svg";
 import pre from "../images/pre.jpg";
+import rivian from "../images/Rivian logo.png";
 
-const logos = { afti: afti, UT: UT, princeton: princeton, pre };
+const logos = { afti: afti, UT: UT, princeton: princeton, pre, rivian };
 
 function WorkExperience() {
   return (
